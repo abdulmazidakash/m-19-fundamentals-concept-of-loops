@@ -1,4 +1,4 @@
-const = 5;
+// const = 5;
 
 let count = 1; //initialization
 while (count < 5){//condition
